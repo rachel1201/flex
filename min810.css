@@ -1,0 +1,142 @@
+@media screen and (min-width: 810px){
+	.logo-bg{
+		width: 52.666667%;
+		float: none;
+		margin: 0 auto -6em;
+		position:relative;
+		padding: 40px 0 10px;
+		text-align: center;
+	}
+	.bg-issuedate{
+		position: absolute;
+		left: 0;
+		top: 0.909090909em;
+		text-align: center;
+		width: 100%;
+	}
+	.weather img{
+		left: 0;
+		bottom: -50px;
+		max-width: 181px;
+	}
+	.weather{
+		float: left;
+		height: 7em;
+		top: auto;
+		margin-top: auto;
+		overflow: hidden;
+		position: relative;
+	}
+	.weather-info{
+		overflow:visible;
+		height: auto;
+		position: static;
+	}
+	.weather p{
+		top: 0;
+		margin: 10px 0 0 1em;
+		float: none;
+		text-shadow:1px 1px 0 #fff;
+	}
+	.weather-temp{
+		float: left;
+		font-family: "Miller Headline Roman", Georgia, serif;
+		font-size: 3.9em;
+		font-weight: normal;
+		margin: 0 20px 0 0;
+		font-family: Helvetica, Arial, sans-serif;
+	}
+	.weather-cond{
+		display: block;
+		margin-right: .2em;
+		margin-bottom: 0.35em;
+		padding-top:5px;
+		text-transform:none;
+		font: normal 12px Georgia, serif;
+	}
+	.weather-temp span{
+		font-size: 0.75em;
+		vertical-align:top;
+	}
+	.weather nav{
+		float: left;
+		padding-top: 0;
+		z-index: 10;
+		top: 0;
+		left: 0;
+		position: relative;
+	}
+	.bg-height-value{
+		left: 0;
+		top: 1em;
+	}
+	.bostoncom{
+		float: left;
+		overflow: hidden;
+		text-indent: 0;
+		width: 100px;
+	}
+	.utils{
+		top: 1em;
+	}
+	.untils-3{
+		display: none;
+	}
+	.logged-out{
+		margin-left: 2em;
+	}
+	.search{
+		height: auto;
+		float: right;
+		clear: right;
+		padding: 2em 0 0 0;
+		text-align: right;
+		width: 27%;
+	}
+	.search-inputs{
+		float: right;
+	}
+	.submit{
+		width: 30px;
+		background: url(../images/search_icon.svg) center no-repeat;
+		height: 22px;
+		background-color: #ededed;
+		padding: 0;
+		text-indent: -999em;
+		border:0;
+
+	}
+	.sections h1{
+		position: absolute;
+		left: -9999px;
+	}
+	.sections-ul a{
+		padding-right: 3px;
+		padding-left: 3px;
+	}
+	.sec-bottom{
+		margin-left: -9999px;
+	}
+	.main-right{
+		width: 31.875%;
+		float: right;
+	}
+	.main-left{
+		width: 65.5%;
+		float: left;
+	}
+	.mainleft-right{
+		width: 34.28%;
+		float: right;
+		padding-left: 1.8%;
+		border-left: 1px solid #e6e6dc;
+	}
+	.mainleft-left{
+		width: 62%;
+		float:left;
+	}
+	.mainll-content{
+		border-right: 1px solid #e6e6dc;
+	}
+
+}

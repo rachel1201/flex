@@ -1,0 +1,22 @@
+@media screen and (min-width: 620px){
+	#contain{
+		margin: 0 auto 10px;
+		width: 93.75%;
+		max-width: 1232px;
+	}
+	.sections h2 a{
+		color: #444;
+	}
+	.sections h2{
+		right: 1.5em;
+	}
+	.sec-head{
+		padding-left: 39px;
+	}
+	.main-content{
+		width: 100%;
+	}
+	.bg-footer{
+		width: 100%;
+	}
+}

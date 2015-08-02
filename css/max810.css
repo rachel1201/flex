@@ -1,0 +1,108 @@
+@media screen and (max-width: 810px){
+	.logo-bg{
+		width: 70%;
+		margin: 6em 15% 10px;
+		position:absolute;
+		text-align: center;
+		padding: 0;
+		z-index: 20;
+	}
+	.logo-bg img{
+		max-width: 200px;
+	}
+	.bg-issuedate{
+		position: absolute;
+		top: -999em;
+		left: -999em;
+	}
+	.weather img{
+		left: 1%;
+		top: auto;
+		max-width: 120px;
+		z-index: 5;
+	}
+	.weather p{
+		margin: 0 1.5em 0 10%;
+		float: left;
+		top: 30px;
+
+	}
+	.weather-temp{
+		font-size: 1.1em;
+		font-weight: bold;
+	}
+	.weather-cond{
+		position: static;
+		display: none;
+	}
+	.weather nav{
+		position: relative;
+		z-index: 10;
+		top: 30px;
+	}
+	.bg-height-value{
+		left: -1000em
+	}
+	.weather-info{
+		height: 5em;
+		overflow: hidden;
+		position: relative;
+	}
+	.utils{
+		top: 3em;
+	}
+	.utils-1,.no-border{
+		display: none;
+	}
+	.untils-3{
+		display: inline;
+	}
+	.logged-out{
+		margin-left: 0.5em;
+	}
+	.bg-search{
+		display: none;
+	}
+	.sections-ul{
+		display: none;
+	}
+	.sections{
+		padding: 0.5em 0;
+	}
+	.sec-bottom{
+		background: url(../images/search_icon.svg) -0.1em -1em no-repeat;
+		padding-left: 29px;
+		padding-top: 5px;
+	}
+	.main-right{
+		width: 100%;
+		float: none;
+	}
+	.main-left{
+		width: 100%;
+		float: none;
+	}
+	.mainleft-right{
+		width: 49%;
+		float: right;
+		padding-left: 2%;
+		border: none;
+	}
+	.mainleft-left{
+		width: 49%;
+		float:left;
+	}
+	.mainll-content{
+		border-right:none;
+	}
+	.mainr-left{
+		width: 49%;
+		float: right;
+		padding-left: 2%;
+		border: none;
+	}
+	.mainr-right{
+		width: 49%;
+		float:left;
+	}
+}
